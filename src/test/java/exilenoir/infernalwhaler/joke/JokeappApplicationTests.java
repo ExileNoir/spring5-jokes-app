@@ -1,4 +1,4 @@
-package exilenoir.infernalwhaler.joke.jokeapp;
+package exilenoir.infernalwhaler.joke;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
